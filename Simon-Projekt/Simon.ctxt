@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Simon
+comment1.params=
+comment1.target=Simon()
+comment2.params=momentanesLevel
+comment2.target=void\ erstelleLevel(int)
+comment3.params=
+comment3.target=boolean\ spielen()
+numComments=4
